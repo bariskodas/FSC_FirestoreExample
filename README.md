@@ -1,5 +1,5 @@
 # FSC_FirestoreExample
-🇹🇷 Firestore için örnek Flutter uyguluması. 
+🇹🇷 Firestore için örnek Flutter uygulaması. 
 
 🇬🇧 An example Flutter app for Firebase Firestore. detaylar / details on medium: 
 
